@@ -1,3 +1,3 @@
-# Javascript
+# Chrome Clone coding
 
-자바스크립트 기초
+Javascript를 이용하여 크롬 클론코딩
